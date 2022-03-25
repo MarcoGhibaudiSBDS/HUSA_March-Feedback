@@ -98,7 +98,7 @@ Issue [6] is a common issue caused by the Preview Pane in Outlook not triggering
 
     <table class="divider desktop_hide" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; min-width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" role="presentation" valign="top"></table>
 
-[6] This is a very finge issue, triggered in very specific scenarios and not fully compromising the reader's experience, but it doesn't allow for easy access to the full email body. It was just noticed towards the end of the troubleshooting and required a re-design of the template to fix, so It's been put in hold for the moment. A possible solution is to think of a <u>fluid</u> more than responsive design, create a layout that scales well under with diminishing widths rather that using CSS rules for mobile.
+[6] This is a very fringe issue, triggered in very specific scenarios and not fully compromising the reader's experience, but it doesn't allow for easy access to the full email body. It was just noticed towards the end of the troubleshooting and required a re-design of the template to fix, so It's been put in hold for the moment. A possible solution is to think of a <u>fluid</u> more than responsive design, create a layout that scales well under with diminishing widths rather that using CSS rules for mobile.
 
 ## Conclusions and suggestions
 
